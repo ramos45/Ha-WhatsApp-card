@@ -1,5 +1,8 @@
 # Ha-WhatsApp-card
 
+to use with https://github.com/moryoav/ha-addons
+
+
 # Card de Lovelace "WhatsApp Chat" para el add-on de WhatsApp
 
 Os comparto una card personalizada para Home Assistant que da al add-on una interfaz con aspecto de WhatsApp: lista de chats, conversaciones, agenda y estado de los mensajes. Funciona con el add-on `whatsapp_addon` y usa sus eventos y el servicio `whatsapp.send_message`.
