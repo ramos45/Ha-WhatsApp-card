@@ -2,7 +2,8 @@
 
 to use with https://github.com/moryoav/ha-addons
 
-https://github.com/ramos45/Ha-WhatsApp-card/blob/main/IMG_20261110_212457.jpg
+https://github.com/ramos45/Ha-WhatsApp-card/blob/2836650df426cf57780bc0bd83b407c497ebaa16/IMG_20261110_212457.jpg
+
 
 # Card de Lovelace "WhatsApp Chat" para el add-on de WhatsApp
 
